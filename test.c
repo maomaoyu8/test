@@ -15,6 +15,7 @@ int main(void)
 {
   struct Book book1;
   kook1.id = 1;
+  printf("id:\n",book1.id);
   
   
   return 0;
